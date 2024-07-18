@@ -255,5 +255,5 @@ Please note that this repository contains a built version of the data source in 
 [9]: https://grafana.com/docs/guides/basic_concepts/
 [10]: https://www.npmjs.com/package/release-it
 [npm]: https://www.npmjs.com/get-npm
-[api_key_doc]: https://docs.sensu.io/sensu-go/latest/reference/apikeys/
+[api_key_doc]: https://docs.sensu.io/sensu-go/latest/operations/control-access/apikeys/
 [response-filtering]: https://docs.sensu.io/sensu-go/latest/api/#response-filtering
